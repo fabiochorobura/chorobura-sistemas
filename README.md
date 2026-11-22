@@ -24,6 +24,10 @@ Entre as tecnologias da minha atuação estão **Java, Spring Boot, React, TypeS
 
 Também mantenho projetos de desenvolvimento e protótipos em marketplaces de serviços, gestão de pedidos e projetos, sistemas administrativos e monitoramento ambiental e geoespacial.
 
+## Colaboração em projeto público
+
+[Central da Secretaria — APAE](https://github.com/RafaelBeatto/central-de-secretaria): contribuições de Fábio Chorobura em um sistema administrativo com backend Java/Spring Boot e frontend React/TypeScript. Repositório mantido por RafaelBeatto.
+
 ## Navegação
 
 - [Projetos e seus contextos](docs/projetos.md)
