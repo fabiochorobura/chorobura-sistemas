@@ -20,11 +20,18 @@ A solução tem portais para a organização, o comércio e o beneficiário, com
 
 ## Associação Mãezinha do Céu
 
-Desenvolvimento pro bono para uma organização social, com site institucional e administração de conteúdo. A apresentação pública reúne eventos, conquistas, doações e informações de transparência.
+**Aplicação completa desenvolvida por Fábio Chorobura, pela Chorobura Sistemas, como projeto pro bono para a associação.** O trabalho abrange a arquitetura, o backend em Java/Spring Boot, o frontend em React/TypeScript, o banco de dados PostgreSQL, a área pública e o painel administrativo.
 
-O trabalho faz parte da atuação social da Chorobura Sistemas.
+Funcionalidades desenvolvidas:
 
-[Conhecer o projeto social](https://chorobura.com.br/projetos-sociais/)
+- Cadastro e gestão de funcionários e diretoria.
+- Controle de acesso e permissões por perfil.
+- Portal da transparência e administração do conteúdo institucional.
+- Publicação de banners, eventos e conquistas da associação.
+- Catálogo do bazar beneficente.
+- Doações, com geração de QR Codes no backend.
+
+[Acessar a aplicação da Associação Mãezinha do Céu](https://associacaomaezinhadoceu.org/)
 
 ## Seu poder de compra
 
