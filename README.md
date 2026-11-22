@@ -10,7 +10,7 @@ Este repositório reúne a apresentação institucional, o portfólio e os links
 | --- | --- | --- |
 | **Chorobura System Car** | Gestão de frotas: manutenção, custos, combustível, documentos, checklists e integrações. | [Apresentação](https://chorobura.com.br/sistemas/system-car/) |
 | **Dovira** | Cartão convênio com rede credenciada, regras, limites, portais e fechamento financeiro. | [Apresentação](https://chorobura.com.br/sistemas/dovira/) |
-| **Associação Mãezinha do Céu** | Projeto social pro bono: site institucional, transparência, eventos, doações e administração de conteúdo. | [Projeto social](https://chorobura.com.br/projetos-sociais/) |
+| **Associação Mãezinha do Céu** | Aplicação completa desenvolvida por Fábio Chorobura, pro bono: backend, frontend, banco de dados, site institucional e painel administrativo, com gestão de funcionários e diretoria, permissões por perfil, transparência, eventos, bazar e doações com QR Code. | [Acessar a aplicação](https://associacaomaezinhadoceu.org/) |
 | **Seu poder de compra** | Painel de dados com gráficos sobre salário mínimo, inflação e poder de compra. | [Explorar o painel](https://chorobura.com.br/salario-minimo-vs-inflacao/) |
 | **Apuração 2026** | Dados oficiais do TSE, mapas, filtros e modo TV. | [Ver o painel](https://chorobura.com.br/eleicoes/) |
 
