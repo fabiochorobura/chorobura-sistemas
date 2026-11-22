@@ -1,41 +1,43 @@
-# Chorobura Sistemas — portfólio de projetos
+# Chorobura Sistemas
 
-**Sistemas empresariais, aplicações web e soluções para processos reais.**
+**Construindo ideias em sites, sistemas e aplicações para empresas e organizações.**
 
-A [Chorobura Sistemas](https://chorobura.com.br/) foi fundada por **Fábio Chorobura**, engenheiro da computação e desenvolvedor full stack e mobile, com formação em Governança de TI e Gerenciamento de Projetos de TI.
+Este repositório reúne a apresentação institucional, o portfólio e os links públicos da Chorobura Sistemas.
 
-Este repositório reúne **apresentações e referências públicas** dos produtos e projetos sociais. Seu conteúdo é documentação de portfólio; as implementações dos sistemas têm seus próprios repositórios e condições de acesso.
+## Produtos e projetos
 
-## Projetos
-
-| Projeto | Aplicação | Apresentação pública |
+| Projeto | Aplicação | Conhecer |
 | --- | --- | --- |
-| **Chorobura System Car** | Gestão de frotas, manutenção, custos, combustível, documentos e checklists. | [Conhecer o System Car](https://chorobura.com.br/sistemas/system-car/) |
-| **Dovira** | Cartão convênio para organizações e rede credenciada, com regras, limites, portais e fechamento financeiro. | [Conhecer o Dovira](https://chorobura.com.br/sistemas/dovira/) |
-| **Associação Mãezinha do Céu** | Projeto pro bono com site institucional, transparência, eventos, doações e administração de conteúdo. | [Conhecer o projeto social](https://chorobura.com.br/projetos-sociais/) |
-| **Seu poder de compra** | Visualização de dados sobre salário mínimo, inflação e poder de compra. | [Explorar o painel](https://chorobura.com.br/salario-minimo-vs-inflacao/) |
-| **Apuração 2026** | Painel com dados oficiais do TSE, mapas, filtros e modo TV. | [Ver o painel](https://chorobura.com.br/eleicoes/) |
+| **Chorobura System Car** | Gestão de frotas: manutenção, custos, combustível, documentos, checklists e integrações. | [Apresentação](https://chorobura.com.br/sistemas/system-car/) |
+| **Dovira** | Cartão convênio com rede credenciada, regras, limites, portais e fechamento financeiro. | [Apresentação](https://chorobura.com.br/sistemas/dovira/) |
+| **Associação Mãezinha do Céu** | Projeto social pro bono: site institucional, transparência, eventos, doações e administração de conteúdo. | [Projeto social](https://chorobura.com.br/projetos-sociais/) |
+| **Seu poder de compra** | Painel de dados com gráficos sobre salário mínimo, inflação e poder de compra. | [Explorar o painel](https://chorobura.com.br/salario-minimo-vs-inflacao/) |
+| **Apuração 2026** | Dados oficiais do TSE, mapas, filtros e modo TV. | [Ver o painel](https://chorobura.com.br/eleicoes/) |
 
-## Atuação técnica
+[Contexto de cada projeto](docs/projetos.md) · [Portfólio no site](https://chorobura.com.br/produtos/)
 
-Meu trabalho abrange entendimento do processo, levantamento de requisitos, definição de regras, arquitetura, modelagem de dados, desenvolvimento, implantação e manutenção.
+## Serviços
 
-Entre as tecnologias da minha atuação estão **Java, Spring Boot, React, TypeScript, Dart, Flutter e PostgreSQL**, além de APIs REST, SQL, Power BI e ferramentas de teste. A tecnologia de cada solução é escolhida conforme os requisitos do projeto.
+- Desenvolvimento de sistemas sob medida e aplicações web.
+- Sites institucionais e páginas de apresentação.
+- Integrações entre sistemas e APIs.
+- Hospedagem, manutenção e evolução de software.
+- Auditoria e mentoria em tecnologia.
 
-Também mantenho projetos de desenvolvimento e protótipos em marketplaces de serviços, gestão de pedidos e projetos, sistemas administrativos e monitoramento ambiental e geoespacial.
+[Conhecer os serviços](https://chorobura.com.br/servicos/)
 
-## Colaboração em projeto público
+## Painéis públicos para baixar
 
-[Central da Secretaria — APAE](https://github.com/RafaelBeatto/central-de-secretaria): contribuições de Fábio Chorobura em um sistema administrativo com backend Java/Spring Boot e frontend React/TypeScript. Repositório mantido por RafaelBeatto.
+Os códigos da **Apuração 2026** e do **Poder de compra** ficam no repositório [paineis-publicos](https://github.com/fabiochorobura/paineis-publicos), com instruções de execução.
 
-## Navegação
+## Sobre a empresa
 
-- [Projetos e seus contextos](docs/projetos.md)
-- [Exemplos públicos de código e estudos](docs/estudos.md)
-- [Perfil profissional no GitHub](https://github.com/fabiochorobura)
-- [Sobre Fábio e a Chorobura](https://chorobura.com.br/sobre/)
-- [Serviços](https://chorobura.com.br/servicos/)
+A Chorobura Sistemas foi fundada por **Fábio Chorobura**, engenheiro da computação e responsável técnico pelos projetos da empresa.
+
+[Sobre a Chorobura](https://chorobura.com.br/sobre/) · [Perfil de Fábio no GitHub](https://github.com/fabiochorobura)
 
 ## Contato
 
-[comercial@chorobura.com.br](mailto:comercial@chorobura.com.br) · [LinkedIn](https://www.linkedin.com/in/fabiochorobura) · [Site](https://chorobura.com.br/)
+- [chorobura.com.br](https://chorobura.com.br/)
+- [comercial@chorobura.com.br](mailto:comercial@chorobura.com.br)
+- [Instagram — @choroburasistemas](https://www.instagram.com/choroburasistemas/)
